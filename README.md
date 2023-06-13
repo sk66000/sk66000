@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sk66000
-- 👀 I’m interested in programming, robotic, diving
+- 👀 I’m interested in programming, robotic, diving, music
 - 🌱 I’m currently learning Rust/Python
 - 💞️ I’m looking to collaborate on all interesting project
 - 📫 How to reach me k0r3labs@gmail.com
